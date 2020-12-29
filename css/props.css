@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.noul{
+    text-decoration: none;
+}
+ul,ol{
+    margin:0px;
+    padding: 0px;
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: normal;
+    margin: 0px;
+    padding: 0px;
+}
+.flex{display: flex;}
+.aic{align-items: center;}
+.fixed{position: fixed;}
+.abs{position: absolute;}
+.rel{position: relative;}
+
+.b1{display:block;}
+.c333{color: #333;}
+.s13{font-size: 13px;}
+.s14{font-size: 14px;}
+.s15{font-size: 15px;}
+.s18{font-size: 18px;}
+.s20{font-size: 20px;}
+.s24{font-size: 24px;}
+.s40{font-size: 40px;}
+.s50{font-size: 50px;}
+
+.fontn{
+    font-weight: normal;
+}
+.fontb{
+    font-weight: bold;
+}
+button{
+    outline: none;
+    cursor: pointer;
+}
